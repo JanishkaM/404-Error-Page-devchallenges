@@ -38,10 +38,6 @@ img/
   screenshot.png
 ```
 
-## Screenshots
-
-![Screenshot](img/screenshot.png)
-
 ## Credits
 - Challenge by [DevChallenges](https://devchallenges.io/)
 - Images and assets are for demonstration purposes only.
